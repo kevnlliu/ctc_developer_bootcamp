@@ -1,1 +1,1 @@
-Test demo file for CTC developer bootcamp
+Test demo repository for CTC developer bootcamp
